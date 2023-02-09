@@ -19,3 +19,6 @@
 [submodule "cpp-06"]
 	path = cpp-06
 	url = https://github.com/rodrigolonghi/cpp-06
+[submodule "cpp-07"]
+	path = cpp-07
+	url = https://github.com/rodrigolonghi/cpp-07
