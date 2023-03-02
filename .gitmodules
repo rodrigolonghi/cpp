@@ -22,3 +22,6 @@
 [submodule "cpp-07"]
 	path = cpp-07
 	url = https://github.com/rodrigolonghi/cpp-07
+[submodule "cpp-08"]
+	path = cpp-08
+	url = https://github.com/rodrigolonghi/cpp-08
